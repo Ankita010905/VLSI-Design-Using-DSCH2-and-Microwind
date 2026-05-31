@@ -76,10 +76,3 @@ The repository covers schematic design, logic verification, CMOS layout design, 
 
 ---
 
-## Author
-
-Ankita Kumari Satapathy
-
-B.Tech – Electrical and Electronics Engineering
-
-NIST University
